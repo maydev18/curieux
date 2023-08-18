@@ -1,0 +1,377 @@
+/* styling body */
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#03191e;
+    font-family: 'Montserrat', sans-serif;
+    color: #f4b860;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+/*.form-input{
+    width: 50%;
+    margin-left: 300px;
+}*/
+
+/* .form-container{
+        
+} */
+
+
+/* .contact{
+    display: inline-block;
+} */
+
+
+
+/* form styling begins*/
+/* div.form-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: fit-content;
+}  */
+#query-form{
+    margin-top: 20px;
+    /* transition: all 4s ease-in-out; */
+}
+
+#exampleFormControlInput1{
+    height: 60px;
+    width: 100%;
+    min-width: 100%; 
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #c1cfda;
+    color: #f4b860;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+#exampleFormControlTextarea1{
+    width: 100%;
+    min-width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #c1cfda;
+    color: #f4b860;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+.submit-button{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}  
+
+#submit-btn{
+    color: #03191e;
+    background-color: #f4b860;
+    font-weight: bolder;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #f4b860;
+    opacity: 1; /* Firefox */
+  }
+/* form styling ends  */
+
+/* address-section styling begins  */
+p{
+    font-size: small;
+}
+/* address section styling ends  */
+
+.footer a{
+  color: #c1cfda;
+  text-decoration: none;
+}/* styling body */
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#03191e;
+    font-family: 'Montserrat', sans-serif;
+    color: #f4b860;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+/*.form-input{
+    width: 50%;
+    margin-left: 300px;
+}*/
+
+/* .form-container{
+        
+} */
+
+
+/* .contact{
+    display: inline-block;
+} */
+
+
+
+/* form styling begins*/
+/* div.form-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: fit-content;
+}  */
+#query-form{
+    margin-top: 20px;
+    /* transition: all 4s ease-in-out; */
+}
+
+#exampleFormControlInput1{
+    height: 60px;
+    width: 100%;
+    min-width: 100%; 
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #c1cfda;
+    color: #f4b860;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+#exampleFormControlTextarea1{
+    width: 100%;
+    min-width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #c1cfda;
+    color: #f4b860;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+.submit-button{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}  
+
+#submit-btn{
+    color: #03191e;
+    background-color: #f4b860;
+    font-weight: bolder;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #f4b860;
+    opacity: 1; /* Firefox */
+  }
+/* form styling ends  */
+
+/* address-section styling begins  */
+p{
+    font-size: small;
+}
+/* address section styling ends  */
+
+.footer a{
+  color: #c1cfda;
+  text-decoration: none;
+}/* styling body */
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#03191e;
+    font-family: 'Montserrat', sans-serif;
+    color: #f4b860;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+/*.form-input{
+    width: 50%;
+    margin-left: 300px;
+}*/
+
+/* .form-container{
+        
+} */
+
+
+/* .contact{
+    display: inline-block;
+} */
+
+
+
+/* form styling begins*/
+/* div.form-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: fit-content;
+}  */
+#query-form{
+    margin-top: 20px;
+    /* transition: all 4s ease-in-out; */
+}
+
+#exampleFormControlInput1{
+    height: 60px;
+    width: 100%;
+    min-width: 100%; 
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #c1cfda;
+    color: #f4b860;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+#exampleFormControlTextarea1{
+    width: 100%;
+    min-width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #c1cfda;
+    color: #f4b860;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+.submit-button{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}  
+
+#submit-btn{
+    color: #03191e;
+    background-color: #f4b860;
+    font-weight: bolder;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #f4b860;
+    opacity: 1; /* Firefox */
+  }
+/* form styling ends  */
+
+/* address-section styling begins  */
+p{
+    font-size: small;
+}
+/* address section styling ends  */
+
+.footer a{
+  color: #c1cfda;
+  text-decoration: none;
+}/* styling body */
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#03191e;
+    font-family: 'Montserrat', sans-serif;
+    color: #f4b860;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+/*.form-input{
+    width: 50%;
+    margin-left: 300px;
+}*/
+
+/* .form-container{
+        
+} */
+
+
+/* .contact{
+    display: inline-block;
+} */
+
+
+
+/* form styling begins*/
+/* div.form-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: fit-content;
+}  */
+#query-form{
+    margin-top: 20px;
+    /* transition: all 4s ease-in-out; */
+}
+
+#exampleFormControlInput1{
+    height: 60px;
+    width: 100%;
+    min-width: 100%; 
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #c1cfda;
+    color: #f4b860;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+#exampleFormControlTextarea1{
+    width: 100%;
+    min-width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #c1cfda;
+    color: #f4b860;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+.submit-button{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}  
+
+#submit-btn{
+    color: #03191e;
+    background-color: #f4b860;
+    font-weight: bolder;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #f4b860;
+    opacity: 1; /* Firefox */
+  }
+/* form styling ends  */
+
+/* address-section styling begins  */
+p{
+    font-size: small;
+}
+/* address section styling ends  */
+
+.footer a{
+  color: #c1cfda;
+  text-decoration: none;
+}

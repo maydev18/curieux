@@ -1,0 +1,191 @@
+/* styling body */
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#03191e;
+    font-family: 'Montserrat', sans-serif;
+    color: lightgrey;
+    font-size:smaller;
+}
+
+
+/* .intro-section
+{
+} */
+/*img
+{
+    padding:10px;
+}*/
+
+/*
+h1 {
+   color:#f4b860;
+   text-align: center; 
+   border-bottom: 1px solid #c1cfda; 
+   line-height: 0.1em;
+   margin-left:60px;
+   margin-right: 60px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1 span {  
+    padding:0 10px; 
+    background-color:rgb(0,0,0,0);
+}
+
+/* core team styling begins  */
+.card-1 {
+    max-width: 100%;
+    text-align: center;
+    height:170px;
+    margin-bottom: 40%;
+}
+.card {
+    border: 2px solid white;
+    border-radius: 6px;
+    max-width: 100%;
+    text-align: center;
+    margin-top: 60px;
+    height:170px;
+    margin:2%;
+    background-color:white;
+}
+.card_img {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 100%;
+    margin: -60px auto 0px;
+}
+.card_img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    object-fit: cover;
+    /* border: 5px solid #03191e; */
+}
+.card_info {
+    padding-bottom: 20px;
+}
+.card_info-one
+{
+    border:2px solid white;
+    border-radius:6px;
+    background-color:white;
+    text-align:center;
+    max-width:90%;
+    height:60px;
+    margin-bottom: 30px;
+    margin:8%;
+    margin-top: 0%;
+}
+.card_info-one h2
+{
+    color:#03191e;
+    font-weight:bolder;
+    text-align: center;
+    font-size:28px;
+}
+h2
+{
+    color:#03191e;
+    text-align: center;
+}
+
+/* core team styling ends  */
+
+/* achiever section styling begins  */
+.achievers-box
+{
+    background-color: white;
+    width:100%;
+}
+.card-achievers
+{
+    background-color:#03191e;
+    color:white;
+    width:260px;
+    height:300px;
+}
+.winners
+{
+    padding:2%;
+}
+.circle{
+    width: 170px;
+    height: 170px;
+    overflow: hidden;
+    border-radius: 100%;
+    margin: 20px 50px 20px;
+}
+
+.circle img
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    object-fit: cover;
+    border: 4px solid #061a40;
+    padding: 0%;
+}
+
+.rectangle{
+    width: 70%;
+    height: 150px;
+    margin: -177px 120px 30px;
+    background-color: #f4b860;
+    border-radius: 25px;
+}
+.circle-1
+{
+    width: 170px;
+    height: 170px;
+    overflow: hidden;
+    border-radius: 100%;
+    margin: 90px 20px 20px;
+    
+}
+.circle-1 img
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    object-fit: cover;
+    border: 4px solid #061a40;
+    padding: 0%;
+}
+
+.rectangle h6{
+    margin-top:6px;
+    margin-left: 30%;
+    color: #061a40;
+    font-weight:bolder;
+}
+.description 
+{
+    color: #061a40;
+    font-weight:bolder;
+    margin-left:14.5%;
+    margin-top:0%;
+    padding:0%;
+}
+.footer a{
+  color: #c1cfda;
+  text-decoration: none;
+}
+/* achiever section styling ends  */
+.card-header
+{
+    color:red;
+}
